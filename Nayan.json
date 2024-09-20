@@ -19,7 +19,7 @@
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
-  "disabledcmds": [],
+  "disabledcmds": ["100063487970328"],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
   "notice": "dont cng author name and owner uid. otherwise bot not working",
